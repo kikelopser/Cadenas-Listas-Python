@@ -7,5 +7,7 @@ El programa en Python:
 - 3.- A continuación, creará una tupla con la siguiente información:
 #### (24-11-2022,10:15,t1,t2,t3,t4) que se guardará en un archivo llamados temperaturas.txt
 
+-------
+
 - [Codigo del Script](https://github.com/kikelopser/Cadenas-Listas-Python/blob/main/Scripts/script1.py)
 - [Comprobaciones](https://github.com/kikelopser/Cadenas-Listas-Python/blob/main/Imagenes/1.PNG)
