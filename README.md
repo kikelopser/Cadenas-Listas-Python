@@ -5,4 +5,4 @@
 ## [:two: Cadenas: Virus](https://github.com/kikelopser/tarea-chocolatey/blob/main/Paginas/instalacion.md)
 
 -----------------
-:warning:![LICENCIA](https://github.com/kikelopser/tarea-chocolatey/blob/main/Imagenes/licencia.png):warning:
+![LICENCIA](https://github.com/kikelopser/tarea-chocolatey/blob/main/Imagenes/licencia.png)
